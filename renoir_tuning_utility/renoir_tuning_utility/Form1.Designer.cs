@@ -225,6 +225,7 @@
             0,
             0,
             0});
+            this.upDownTctlTemp.ValueChanged += new System.EventHandler(this.upDownTctlTemp_ValueChanged);
             // 
             // panel11
             // 
