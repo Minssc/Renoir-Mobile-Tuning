@@ -45,7 +45,7 @@
       <Value Profile="(Default)">85</Value>
     </Setting>
     <Setting Name="TDC" Type="System.Decimal" Scope="User">
-      <Value Profile="(Default)">35</Value>
+      <Value Profile="(Default)">45</Value>
     </Setting>
     <Setting Name="EDC" Type="System.Decimal" Scope="User">
       <Value Profile="(Default)">60</Value>
